@@ -27,11 +27,6 @@ Email Me 👉 ✉️ **pavanilangar7@gmail.com** For Collaboration/Project or An
 ![](https://nirzak-streak-stats.vercel.app/?user=Pavanidev25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanidev25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Pavanidev25&icon=0&color=0)](https://visitcount.itsvg.in)
 
