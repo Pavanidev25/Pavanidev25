@@ -1,9 +1,10 @@
 # Hi 👋, I'm Pavani
-🌱 I’m currently learning: Java full stack<br>💬 Ask me about: Learning paths for Full Stack Development | Frontend basics (HTML, CSS, JavaScript)<br>😄 Pronouns: She / Her<br>⚡ Fun fact: Love exploring new tech
 
 **Aspiring Java full stack developer ||  Frontend developer**
 
 Email Me 👉 ✉️ **pavanilangar7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+🌱 I’m currently learning: Java full stack<br>💬 Ask me about: Learning paths for Full Stack Development | Frontend basics (HTML, CSS, JavaScript)<br>😄 Pronouns: She / Her<br>⚡ Fun fact: Love exploring new tech
 
 
 ## 🌐 Socials:
